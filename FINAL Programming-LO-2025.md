@@ -114,7 +114,7 @@ typical data types in java are int, double, float, char, boolean, long, short, b
 
 Examples of complex data structures in java are ArrayList, HashMap, HashSet, LinkedList, and TreeMap. Please provide an example of how you have used **two** of these complex data structures in your code and explain why you have chosen these data structures.
 - https://github.com/Roiczone/Java-project/blob/main/Member.java (I used a list here, to get the ID of the different instances of the book object class)
-- https://github.com/Roiczone/Java-excercises/blob/main/Grades%20Management%20System/StudentGradesSystem.java
+- https://github.com/Roiczone/Java-excercises/blob/main/Grades%20Management%20System/StudentGradesSystem.java (I used the HashMap here so I can easily loop through the values available).
 
   
 
