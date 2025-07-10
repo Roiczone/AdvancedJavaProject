@@ -25,7 +25,12 @@ Remember, this checklist is not exhaustive, but it should help you ensure that y
 Good luck with your evaluation!
 
 # Project Description (70%)
-
+My Project was to develop a Library Management System.
+- Add, delete, and update Book records.
+- Add, delete, and Update Member records.
+- Find and show all transactions.
+- Borrow and return books.
+- Fine calculation for late returns.
 
 ## Link
 
@@ -33,15 +38,16 @@ Good luck with your evaluation!
 *your text*
 
 ## TECH STACK
-
-*your text*
+- Java(OOP + Collections)
+- JDBC(Java DatabaseConnectivity)
+- JavaFx(For the GUI Development)
 
 ## What did you achieve? 
-
-*your text*
-
-
-
+- Add, delete, and update Book records.
+- Add, delete, and Update Member records.
+- Find and show all transactions.
+- Borrow and return books.
+- Fine calculation for late returns.
 
 
 ## Learning Outcomes
@@ -69,7 +75,7 @@ Please answer the following questions to the best of your ability to show your u
 
 ### Q1. Algorithms
 
-Algorithms are manyfold and Java can be used to program these. Examples are sorting or search strategies but also mathematical calculations. Please refer to **two** areas in either your regular coding practice (for example from Semester 1) or within your project, where you have coded an algorithm. Do not make reference to code written for other classes, like theoretical informatics.
+Algorithms are manifold and Java can be used to program these. Examples are sorting or search strategies but also mathematical calculations. Please refer to **two** areas in either your regular coding practice (for example from Semester 1) or within your project, where you have coded an algorithm. Do not make reference to code written for other classes, like theoretical informatics.
 
 
 *your text*
@@ -89,9 +95,9 @@ typical data types in java are int, double, float, char, boolean, long, short, b
 * Strings
 * boolean
 * your choice
-
-
-*your text*
+- Arrays are data structures where set of same data can be stored. [1, 2, 3]
+- Strings: strings are primitive datatypes used to initialize names. "mama"
+- Boolean: these are primitive datatypes that either return true or false; eg: True, False
 
 | Total Achievable Points | Points Reached During Grading |
 |------------------------|-------------------------------|
