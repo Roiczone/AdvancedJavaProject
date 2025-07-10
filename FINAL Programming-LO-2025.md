@@ -240,6 +240,7 @@ Which one did you choose:
 # Speed Coding (20%)
 Please enter **three** Links to your speed coding session GITs and name your partner. 
 
+- https://github.com/Roiczone/Java-excercises/tree/main/Grades%20Management%20System (Petra)
 
 *your text*
 
