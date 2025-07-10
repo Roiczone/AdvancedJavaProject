@@ -76,7 +76,9 @@ Please answer the following questions to the best of your ability to show your u
 ### Q1. Algorithms
 
 Algorithms are manifold and Java can be used to program these. Examples are sorting or search strategies but also mathematical calculations. Please refer to **two** areas in either your regular coding practice (for example from Semester 1) or within your project, where you have coded an algorithm. Do not make reference to code written for other classes, like theoretical informatics.
+
 - https://github.com/Roiczone/Java-excercises/blob/main/MatrixMultiplication.java
+- https://github.com/Roiczone/Java-excercises/blob/main/ChristmasTree.java
 
 
 *your text*
@@ -177,6 +179,9 @@ Test cases usually cover the following areas:
 An example of operator overloading is the "+" operator that can be used to add two numbers or concatenate two strings. An example of method overloading is having two methods with the same name but different parameters. Please provide an example of how you have used operator or method overloading in your code and explain why you have chosen this method of coding.
 The link does not have to be to your project and can be to your practice code.
 
+- https://github.com/Roiczone/Java-excercises/blob/main/ChristmasTree.java
+ ( I used the "+" operator in order to add a value to the created or existing variable).
+
 *your text*
 
 | Total Achievable Points | Points Reached During Grading |
@@ -218,7 +223,8 @@ Which one did you choose:
 * [ ] API
 * [ ] Deployment
 
-
+- Web interface with design
+- Database connected
 
 *your text*
 
