@@ -128,7 +128,9 @@ Explain HOW and WHY your **project** demonstrates the use of OOP by using all of
 * Methods
 * Attributes 
 Link to the code in your project that demonstrates what you have explained above.
+https://github.com/Roiczone/Java-excercises/blob/main/Grades%20Management%20System/StudentGradesSystem.java
 
+To start a project, you need several classes(1 or more) that define the objects that will be manipulated within the project. The object needs to get some attributes, which can be used to manipulate the concerned object.
 *your text*
 
 | Total Achievable Points | Points Reached During Grading |
@@ -139,6 +141,8 @@ Link to the code in your project that demonstrates what you have explained above
 ### Q5. OO Design
 Please showcase **two** areas where you have used object orientation and explain the advantage that object oriented code brings to the application or the problem that your code is addressing.
 Examples in java of good oo design are encapsulation, inheritance, polymorphism, and abstraction. 
+
+Health app: Java helped in managint the API that was intergrated to the project and also could be easily manipulated in Android Studio.
 
 
 *your text*
