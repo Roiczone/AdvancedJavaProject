@@ -95,9 +95,10 @@ typical data types in java are int, double, float, char, boolean, long, short, b
 * Strings
 * boolean
 * your choice
-- Arrays are data structures where set of same data can be stored. [1, 2, 3]
-- Strings: strings are primitive datatypes used to initialize names. "mama"
-- Boolean: these are primitive datatypes that either return true or false; eg: True, False
+  Data types are just a set of character(data) that can be assigned to a variable)
+- Arrays: [1, 2, 3]
+- Strings:"mama"
+- Boolean:False
 
 | Total Achievable Points | Points Reached During Grading |
 |------------------------|-------------------------------|
@@ -109,8 +110,10 @@ typical data types in java are int, double, float, char, boolean, long, short, b
 ### Q3. Complex Data Structures
 
 Examples of complex data structures in java are ArrayList, HashMap, HashSet, LinkedList, and TreeMap. Please provide an example of how you have used **two** of these complex data structures in your code and explain why you have chosen these data structures.
+- https://github.com/Roiczone/Java-project/blob/main/Member.java (I used a list here, to get the ID of the different instances of the book object class)
 - https://github.com/Roiczone/Java-excercises/blob/main/Grades%20Management%20System/StudentGradesSystem.java
-*your text*
+
+  
 
 | Total Achievable Points | Points Reached During Grading |
 |------------------------|-------------------------------|
